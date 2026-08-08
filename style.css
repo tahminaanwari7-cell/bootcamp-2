@@ -151,7 +151,9 @@ background-color: rgb(250, 242, 242);
     background:black;
     color:white;
 }
-
+.videoc{
+     background-color: #ddd;
+}
 video{
 width:90%;
  border-radius: 33px;
