@@ -3,10 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background:#fefcfc;
-   
-}
+
 .navbar{
     display:flex;
     align-items:center;
