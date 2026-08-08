@@ -285,6 +285,14 @@ height:700px;
     bottom:50px;
 
 }
+.checkmark{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
 .tag{
     position:absolute;
     background:#fff;
