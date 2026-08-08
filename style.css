@@ -73,6 +73,7 @@ background-color: rgb(250, 242, 242);
     align-items:center;
     text-align:center;
     padding:20px 20px;
+     background-color: #ddd;
 }
 
 .content{
