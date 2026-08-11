@@ -838,8 +838,9 @@ footer{
 }
 
 
-small{
+#small{
     color:#888;
+    padding:6px;
 }
 
 .last{
